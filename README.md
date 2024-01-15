@@ -1,7 +1,2 @@
-## My job is front end developer
-hi 😊, my Upwork client 
 
-I m a frontend developer 
-the framework i use are 
-React 
-React native 
+<h1 style="padding:1.2rem;background-color:red;border-radius:0.5rem;color:white;">Fedi Gr</h1>
